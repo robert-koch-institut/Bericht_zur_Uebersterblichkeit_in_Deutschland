@@ -1,6 +1,6 @@
 {
   "title": "Bericht zur Übersterblichkeit in Deutschland",
-  "description": "<p>Der Wochenbericht des RKI zur Übersterblichkeit gibt einen Überblick über die aktuelle Entwicklung der Sterblichkeit in Deutschland. Zur Bestimmung der Übersterblichkeit werden die gegenwärtigen Sterbefallzahlen mit einem erwarteten Referenzwert verglichen, der aus den Sterbedaten der vergangenen Jahre abgeleitet wird. Übersteigt die aktuelle Zahl der Todesfälle diesen Referenzwert deutlich, wird von einer Übersterblichkeit gesprochen. Dabei werden die Daten auf Bundesebene, verschiedenen Altersgruppen, für Krankenhäuser, Alten- und Pflegeheime und die Bundesländer ausgewertet.</p>\n<p>Zur Bewertung von Abweichungen zwischen beobachteter und erwarteter Sterbefallzahl wird der z-Score berechnet, der zur Einordnung einer etwaigen Übersterblichkeit genutzt wird.</p>\n",
+  "description": "<p>Der Wochenbericht des RKI zur Übersterblichkeit gibt einen Überblick über die aktuelle Entwicklung der Sterblichkeit in Deutschland. Zur Bestimmung der Übersterblichkeit werden die gegenwärtigen Sterbefallzahlen mit einem erwarteten Referenzwert verglichen, der aus den Sterbedaten der vergangenen Jahre abgeleitet wird. Übersteigt die aktuelle Zahl der Todesfälle diesen Referenzwert deutlich, wird von einer Übersterblichkeit gesprochen. Dabei werden die Daten auf Bundesebene, verschiedenen Altersgruppen, für Krankenhäuser, Alten- und Pflegeheime und die Bundesländer ausgewertet. Zur Bewertung von Abweichungen zwischen beobachteter und erwarteter Sterbefallzahl wird der z-Score berechnet, der zur Einordnung einer etwaigen Übersterblichkeit genutzt wird.</p>\n",
   "creators": [
     {
       "name": "Robert Koch-Institut",
@@ -10,31 +10,31 @@
   "contributors": [
     {
       "name": "Zacher, Benedikt",
-      "affiliation": "Robert Koch-Institut",
+      "affiliation": "Robert Koch-Institut | Fachgebiet 32",
       "type": "Researcher",
       "orcid": "0000-0002-6107-6389"
     },
     {
       "name": "Hicketier, Andreas",
-      "affiliation": "Robert Koch-Institut",
+      "affiliation": "Robert Koch-Institut | Fachgebiet 32",
       "type": "Researcher",
       "orcid": "0009-0000-5882-852X"
     },
     {
       "name": "Ullrich, Alexander",
-      "affiliation": "Robert Koch-Institut",
+      "affiliation": "Robert Koch-Institut | Fachgebiet 32",
       "type": "Researcher",
       "orcid": "0000-0002-4894-6124"
     },
     {
       "name": "Diercke, Michaela",
-      "affiliation": "Robert Koch-Institut",
+      "affiliation": "Robert Koch-Institut | Fachgebiet 32",
       "type": "ProjectLeader",
       "orcid": "0000-0002-4678-1813"
     },
     {
       "name": "an der Heiden, Matthias",
-      "affiliation": "Robert Koch-Institut",
+      "affiliation": "Robert Koch-Institut | Fachgebiet 34",
       "type": "Researcher",
       "orcid": "0000-0001-5863-4549"
     }
@@ -46,14 +46,16 @@
     "Excess Mortality",
     "Gesundheitsberichterstattung",
     "Public Health Surveillance",
-    "Germany",
     "Deutschland",
-    "RKI",
+    "Germany",
     "Offener Zugang",
-    "Open Access"
+    "Open Access",
+    "Epidemiologie",
+    "Epidemiology",
+    "RKI"
   ],
-  "publication_date": "2025-12-05",
-  "version": "2025-12-05",
+  "publication_date": "2026-01-21",
+  "version": "2026-01-21",
   "upload_type": "publication",
   "publication_type": "report",
   "access_right": "open",
@@ -67,8 +69,8 @@
   "subjects": [],
   "dates": [
     {
-      "start": "2025-12-05T15:12:26+01:00",
-      "end": "2025-12-05T15:12:26+01:00",
+      "start": "2026-01-21T17:30:33+01:00",
+      "end": "2026-01-21T17:30:33+01:00",
       "type": "Created",
       "description": "Date when the published data was created"
     }

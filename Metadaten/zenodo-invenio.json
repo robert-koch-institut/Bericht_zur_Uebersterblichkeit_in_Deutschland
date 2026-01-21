@@ -1,10 +1,10 @@
 {
   "title": "Bericht zur Übersterblichkeit in Deutschland",
-  "description": "<p>Der Wochenbericht des RKI zur Übersterblichkeit gibt einen Überblick über die aktuelle Entwicklung der Sterblichkeit in Deutschland. Zur Bestimmung der Übersterblichkeit werden die gegenwärtigen Sterbefallzahlen mit einem erwarteten Referenzwert verglichen, der aus den Sterbedaten der vergangenen Jahre abgeleitet wird. Übersteigt die aktuelle Zahl der Todesfälle diesen Referenzwert deutlich, wird von einer Übersterblichkeit gesprochen. Dabei werden die Daten auf Bundesebene, verschiedenen Altersgruppen, für Krankenhäuser, Alten- und Pflegeheime und die Bundesländer ausgewertet.</p>\n<p>Zur Bewertung von Abweichungen zwischen beobachteter und erwarteter Sterbefallzahl wird der z-Score berechnet, der zur Einordnung einer etwaigen Übersterblichkeit genutzt wird.</p>\n",
+  "description": "<p>Der Wochenbericht des RKI zur Übersterblichkeit gibt einen Überblick über die aktuelle Entwicklung der Sterblichkeit in Deutschland. Zur Bestimmung der Übersterblichkeit werden die gegenwärtigen Sterbefallzahlen mit einem erwarteten Referenzwert verglichen, der aus den Sterbedaten der vergangenen Jahre abgeleitet wird. Übersteigt die aktuelle Zahl der Todesfälle diesen Referenzwert deutlich, wird von einer Übersterblichkeit gesprochen. Dabei werden die Daten auf Bundesebene, verschiedenen Altersgruppen, für Krankenhäuser, Alten- und Pflegeheime und die Bundesländer ausgewertet. Zur Bewertung von Abweichungen zwischen beobachteter und erwarteter Sterbefallzahl wird der z-Score berechnet, der zur Einordnung einer etwaigen Übersterblichkeit genutzt wird.</p>\n",
   "resource_type": {
     "id": "publication-report"
   },
-  "publication_date": "2025-12-05",
+  "publication_date": "2026-01-21",
   "creators": [
     {
       "person_or_org": {
@@ -28,8 +28,7 @@
       },
       "affiliations": [
         {
-          "name": "Robert Koch-Institut",
-          "id": "01k5qnb77"
+          "name": "Robert Koch-Institut | Fachgebiet 32"
         }
       ],
       "role": {
@@ -50,8 +49,7 @@
       },
       "affiliations": [
         {
-          "name": "Robert Koch-Institut",
-          "id": "01k5qnb77"
+          "name": "Robert Koch-Institut | Fachgebiet 32"
         }
       ],
       "role": {
@@ -72,8 +70,7 @@
       },
       "affiliations": [
         {
-          "name": "Robert Koch-Institut",
-          "id": "01k5qnb77"
+          "name": "Robert Koch-Institut | Fachgebiet 32"
         }
       ],
       "role": {
@@ -94,8 +91,7 @@
       },
       "affiliations": [
         {
-          "name": "Robert Koch-Institut",
-          "id": "01k5qnb77"
+          "name": "Robert Koch-Institut | Fachgebiet 32"
         }
       ],
       "role": {
@@ -116,8 +112,7 @@
       },
       "affiliations": [
         {
-          "name": "Robert Koch-Institut",
-          "id": "01k5qnb77"
+          "name": "Robert Koch-Institut | Fachgebiet 34"
         }
       ],
       "role": {
@@ -126,10 +121,10 @@
     }
   ],
   "publisher": "Zenodo",
-  "version": "2025-12-05",
+  "version": "2026-01-21",
   "dates": [
     {
-      "date": "2025-12-05T15:12:26+01:00",
+      "date": "2026-01-21T17:30:33+01:00",
       "type": {
         "id": "created"
       },
@@ -178,19 +173,25 @@
       "subject": "Public Health Surveillance"
     },
     {
-      "subject": "Germany"
-    },
-    {
       "subject": "Deutschland"
     },
     {
-      "subject": "RKI"
+      "subject": "Germany"
     },
     {
       "subject": "Offener Zugang"
     },
     {
       "subject": "Open Access"
+    },
+    {
+      "subject": "Epidemiologie"
+    },
+    {
+      "subject": "Epidemiology"
+    },
+    {
+      "subject": "RKI"
     }
   ],
   "custom_fields": {
