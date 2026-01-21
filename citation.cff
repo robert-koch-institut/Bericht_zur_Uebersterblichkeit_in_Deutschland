@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+type: software
+title: Bericht zur Übersterblichkeit in Deutschland
+abstract: >-
+  Der Wochenbericht des RKI zur Übersterblichkeit gibt einen Überblick über die
+  aktuelle Entwicklung der Sterblichkeit in Deutschland. Zur Bestimmung der
+  Übersterblichkeit werden die gegenwärtigen Sterbefallzahlen mit einem
+  erwarteten Referenzwert verglichen, der aus den Sterbedaten der vergangenen
+  Jahre abgeleitet wird. Übersteigt die aktuelle Zahl der Todesfälle diesen
+  Referenzwert deutlich, wird von einer Übersterblichkeit gesprochen. Dabei
+  werden die Daten auf Bundesebene, verschiedenen Altersgruppen, für
+  Krankenhäuser, Alten- und Pflegeheime und die Bundesländer ausgewertet.
+
+
+  Zur Bewertung von Abweichungen zwischen beobachteter und erwarteter
+  Sterbefallzahl wird der z-Score berechnet, der zur Einordnung einer etwaigen
+  Übersterblichkeit genutzt wird.
+date-released: '2025-12-05'
+keywords:
+  - Mortalität
+  - Mortality
+  - Übersterblichkeit
+  - Excess Mortality
+  - Gesundheitsberichterstattung
+  - Public Health Surveillance
+  - Germany
+  - Deutschland
+  - RKI
+  - Offener Zugang
+  - Open Access
+message: Cite me!
+url: >-
+  https://robert-koch-institut.github.io/Bericht_zur_Uebersterblichkeit_in_Deutschland
+license: CC-BY-4.0
+doi: 10.5281/zenodo.17608502
+version: '2025-12-05T15:12:26+01:00'
+authors:
+  - name: Robert Koch-Institut
+    email: info@rki.de
