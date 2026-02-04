@@ -24,7 +24,7 @@ Dokumentation
 <br> 
 
 **Zitieren**  
-Robert Koch-Institut. (2026). Bericht zur Übersterblichkeit in Deutschland. Zenodo. [https://doi.org/10.5281/zenodo.18400598](https://doi.org/10.5281/zenodo.18400598)
+Robert Koch-Institut. (2026). Bericht zur Übersterblichkeit in Deutschland. Zenodo. [https://doi.org/10.5281/zenodo.18480266](https://doi.org/10.5281/zenodo.18480266)
 
 <br>
 
