@@ -25,7 +25,7 @@ Dokumentation
 
 **Zitieren**  
 <!-- CITATION_START: {"citation_style": "apa"} -->  
-Robert Koch-Institut. (2025). Bericht zur Übersterblichkeit in Deutschland. Zenodo. [https://doi.org/10.5281/zenodo.17608502](https://doi.org/10.5281/zenodo.17608502)
+Robert Koch-Institut. (2026). Bericht zur Übersterblichkeit in Deutschland. Zenodo. [https://doi.org/10.5281/zenodo.18679435](https://doi.org/10.5281/zenodo.18679435)
 <!-- CITATION_END -->
 
 
@@ -65,7 +65,7 @@ An dieser Stelle finden Sie den interaktiven Wochenbericht mit den Auswertungen 
 
 Die dem Bericht zugrundeliegenden Daten sind als Open Data verfügbar:
 
-> Robert Koch-Institut. (2025). Daten des Übersterblichkeitsberichts [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17463781](https://doi.org/10.5281/zenodo.17463781)
+> Robert Koch-Institut. (2026). Daten des Übersterblichkeitsberichts [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17463781](https://doi.org/10.5281/zenodo.17463781)
 
 
 ## Administrative und organisatorische Angaben 
