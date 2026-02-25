@@ -24,10 +24,12 @@ Dokumentation
 <br> 
 
 **Zitieren**  
+<!-- CITATION_START: {"citation_style": "apa"} -->  
 Robert Koch-Institut. (2026). Bericht zur Übersterblichkeit in Deutschland. Zenodo. [https://doi.org/10.5281/zenodo.18679435](https://doi.org/10.5281/zenodo.18679435)
+<!-- CITATION_END -->
+
 
 <br>
-
 
 **Zusammenfassung**    
 Der Wochenbericht des RKI zur Übersterblichkeit gibt einen Überblick über die aktuelle Entwicklung der Sterblichkeit in Deutschland. Zur Bestimmung der Übersterblichkeit werden die gegenwärtigen Sterbefallzahlen mit einem erwarteten Referenzwert verglichen, der aus den Sterbedaten der vergangenen Jahre abgeleitet wird. Übersteigt die aktuelle Zahl der Todesfälle diesen Referenzwert deutlich, wird von einer Übersterblichkeit gesprochen. Dabei werden die Daten auf Bundesebene, verschiedenen Altersgruppen, für Krankenhäuser, Alten- und Pflegeheime und die Bundesländer ausgewertet. Zur Bewertung von Abweichungen zwischen beobachteter und erwarteter Sterbefallzahl wird der z-Score berechnet, der zur Einordnung einer etwaigen Übersterblichkeit genutzt wird.
@@ -73,13 +75,14 @@ Die Aufbereitung und Veröffentlichung des interaktiven Berichts erfolgen durch 
 
 
 <!-- FOOTER_START -->
+
 ### Metadaten  
 
 Zur Erhöhung der Auffindbarkeit ist der interaktive Bericht mit Metadaten beschrieben. Über GitHub Actions werden Metadaten an die entsprechenden Plattformen verteilt. Für jede Plattform existiert eine spezifische Metadatendatei, diese sind im Metadatenordner hinterlegt:  
 
 > [Metadaten/](https://github.com/robert-koch-institut/Bericht_zur_Uebersterblichkeit_in_Deutschland/tree/main/Metadaten/) 
 
-Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/Bericht_zur_Uebersterblichkeit_in_Deutschland/blob/main/$METADATA_FOLDER/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.
+Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/Bericht_zur_Uebersterblichkeit_in_Deutschland/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.
  
  
 > [Metadaten/zenodo.json](https://github.com/robert-koch-institut/Bericht_zur_Uebersterblichkeit_in_Deutschland/blob/main/Metadaten/zenodo.json)  
