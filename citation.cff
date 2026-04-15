@@ -13,7 +13,7 @@ abstract: >-
   Bewertung von Abweichungen zwischen beobachteter und erwarteter Sterbefallzahl
   wird der z-Score berechnet, der zur Einordnung einer etwaigen
   Übersterblichkeit genutzt wird.
-date-released: '2026-04-08'
+date-released: '2026-04-15'
 keywords:
   - Mortalität
   - Mortality
@@ -32,7 +32,7 @@ message: Cite me!
 url: >-
   https://robert-koch-institut.github.io/Bericht_zur_Uebersterblichkeit_in_Deutschland
 license: CC-BY-4.0
-doi: 10.5281/zenodo.19468154
-version: '2026-04-06T00:00:00+02:00'
+doi: 10.5281/zenodo.19591149
+version: '2026-04-13T00:00:00+02:00'
 authors:
   - name: Robert Koch-Institut
