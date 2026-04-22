@@ -1,19 +1,17 @@
 cff-version: 1.2.0
 type: software
 title: Bericht zur Übersterblichkeit in Deutschland
-abstract: >-
-  Der Wochenbericht des RKI zur Übersterblichkeit gibt einen Überblick über die
-  aktuelle Entwicklung der Sterblichkeit in Deutschland. Zur Bestimmung der
-  Übersterblichkeit werden die gegenwärtigen Sterbefallzahlen mit einem
-  erwarteten Referenzwert verglichen, der aus den Sterbedaten der vergangenen
-  Jahre abgeleitet wird. Übersteigt die aktuelle Zahl der Todesfälle diesen
-  Referenzwert deutlich, wird von einer Übersterblichkeit gesprochen. Dabei
-  werden die Daten auf Bundesebene, verschiedenen Altersgruppen, für
-  Krankenhäuser, Alten- und Pflegeheime und die Bundesländer ausgewertet. Zur
-  Bewertung von Abweichungen zwischen beobachteter und erwarteter Sterbefallzahl
-  wird der z-Score berechnet, der zur Einordnung einer etwaigen
-  Übersterblichkeit genutzt wird.
-date-released: '2026-04-15'
+abstract: Der Wochenbericht des RKI zur Übersterblichkeit gibt einen Überblick über
+  die aktuelle Entwicklung der Sterblichkeit in Deutschland. Zur Bestimmung der Übersterblichkeit
+  werden die gegenwärtigen Sterbefallzahlen mit einem erwarteten Referenzwert verglichen,
+  der aus den Sterbedaten der vergangenen Jahre abgeleitet wird. Übersteigt die aktuelle
+  Zahl der Todesfälle diesen Referenzwert deutlich, wird von einer Übersterblichkeit
+  gesprochen. Dabei werden die Daten auf Bundesebene, verschiedenen Altersgruppen,
+  für Krankenhäuser, Alten- und Pflegeheime und die Bundesländer ausgewertet. Zur
+  Bewertung von Abweichungen zwischen beobachteter und erwarteter Sterbefallzahl wird
+  der z-Score berechnet, der zur Einordnung einer etwaigen Übersterblichkeit genutzt
+  wird.
+date-released: '2026-04-22'
 keywords:
   - Mortalität
   - Mortality
@@ -21,18 +19,19 @@ keywords:
   - Excess Mortality
   - Gesundheitsberichterstattung
   - Public Health Surveillance
-  - Deutschland
   - Germany
+  - Deutschland
+  - RKI
   - Offener Zugang
   - Open Access
   - Epidemiologie
   - Epidemiology
-  - RKI
 message: Cite me!
-url: >-
-  https://robert-koch-institut.github.io/Bericht_zur_Uebersterblichkeit_in_Deutschland
+url: https://robert-koch-institut.github.io/Bericht_zur_Uebersterblichkeit_in_Deutschland
 license: CC-BY-4.0
-doi: 10.5281/zenodo.19591149
-version: '2026-04-13T00:00:00+02:00'
+doi: 10.5281/zenodo.19692227
+version: '2026-04-20T00:00:00+02:00'
 authors:
   - name: Robert Koch-Institut
+    email: info@rki.de
+    website: https://www.rki.de/

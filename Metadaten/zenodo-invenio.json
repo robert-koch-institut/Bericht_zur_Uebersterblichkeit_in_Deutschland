@@ -1,16 +1,27 @@
 {
   "title": "Bericht zur Übersterblichkeit in Deutschland",
-  "description": "<p>Der Wochenbericht des RKI zur Übersterblichkeit gibt einen Überblick über die aktuelle Entwicklung der Sterblichkeit in Deutschland. Zur Bestimmung der Übersterblichkeit werden die gegenwärtigen Sterbefallzahlen mit einem erwarteten Referenzwert verglichen, der aus den Sterbedaten der vergangenen Jahre abgeleitet wird. Übersteigt die aktuelle Zahl der Todesfälle diesen Referenzwert deutlich, wird von einer Übersterblichkeit gesprochen. Dabei werden die Daten auf Bundesebene, verschiedenen Altersgruppen, für Krankenhäuser, Alten- und Pflegeheime und die Bundesländer ausgewertet. Zur Bewertung von Abweichungen zwischen beobachteter und erwarteter Sterbefallzahl wird der z-Score berechnet, der zur Einordnung einer etwaigen Übersterblichkeit genutzt wird.</p>\n",
+  "description": "<p>Der Wochenbericht des RKI zur Übersterblichkeit gibt einen Überblick über die aktuelle Entwicklung der Sterblichkeit in Deutschland. Zur Bestimmung der Übersterblichkeit werden die gegenwärtigen Sterbefallzahlen mit einem erwarteten Referenzwert verglichen, der aus den Sterbedaten der vergangenen Jahre abgeleitet wird. Übersteigt die aktuelle Zahl der Todesfälle diesen Referenzwert deutlich, wird von einer Übersterblichkeit gesprochen. Dabei werden die Daten auf Bundesebene, verschiedenen Altersgruppen, für Krankenhäuser, Alten- und Pflegeheime und die Bundesländer ausgewertet. Zur Bewertung von Abweichungen zwischen beobachteter und erwarteter Sterbefallzahl wird der z-Score berechnet, der zur Einordnung einer etwaigen Übersterblichkeit genutzt wird.</p>",
   "resource_type": {
     "id": "publication-report"
   },
-  "publication_date": "2026-04-15",
+  "publication_date": "2026-04-22",
   "creators": [
     {
       "person_or_org": {
         "type": "organizational",
-        "name": "Robert Koch-Institut"
-      }
+        "name": "Robert Koch-Institut",
+        "identifiers": [
+          {
+            "scheme": "ror",
+            "identifier": "01k5qnb77"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Bundesministerium für Gesundheit (BMG)"
+        }
+      ]
     }
   ],
   "contributors": [
@@ -28,7 +39,8 @@
       },
       "affiliations": [
         {
-          "name": "Robert Koch-Institut | Fachgebiet 32"
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
         }
       ],
       "role": {
@@ -49,7 +61,8 @@
       },
       "affiliations": [
         {
-          "name": "Robert Koch-Institut | Fachgebiet 32"
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
         }
       ],
       "role": {
@@ -70,7 +83,8 @@
       },
       "affiliations": [
         {
-          "name": "Robert Koch-Institut | Fachgebiet 32"
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
         }
       ],
       "role": {
@@ -91,7 +105,8 @@
       },
       "affiliations": [
         {
-          "name": "Robert Koch-Institut | Fachgebiet 32"
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
         }
       ],
       "role": {
@@ -112,7 +127,8 @@
       },
       "affiliations": [
         {
-          "name": "Robert Koch-Institut | Fachgebiet 34"
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
         }
       ],
       "role": {
@@ -121,10 +137,10 @@
     }
   ],
   "publisher": "Zenodo",
-  "version": "2026-04-15",
+  "version": "2026-04-22",
   "dates": [
     {
-      "date": "2026-04-13T00:00:00+02:00",
+      "date": "2026-04-20T00:00:00+02:00",
       "type": {
         "id": "created"
       },
@@ -173,10 +189,13 @@
       "subject": "Public Health Surveillance"
     },
     {
+      "subject": "Germany"
+    },
+    {
       "subject": "Deutschland"
     },
     {
-      "subject": "Germany"
+      "subject": "RKI"
     },
     {
       "subject": "Offener Zugang"
@@ -189,9 +208,6 @@
     },
     {
       "subject": "Epidemiology"
-    },
-    {
-      "subject": "RKI"
     }
   ],
   "custom_fields": {
