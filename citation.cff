@@ -11,7 +11,7 @@ abstract: Der Wochenbericht des RKI zur Übersterblichkeit gibt einen Überblick
   Bewertung von Abweichungen zwischen beobachteter und erwarteter Sterbefallzahl wird
   der z-Score berechnet, der zur Einordnung einer etwaigen Übersterblichkeit genutzt
   wird.
-date-released: '2026-04-22'
+date-released: '2026-04-29'
 keywords:
   - Mortalität
   - Mortality
@@ -29,8 +29,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/Bericht_zur_Uebersterblichkeit_in_Deutschland
 license: CC-BY-4.0
-doi: 10.5281/zenodo.19692227
-version: '2026-04-20T00:00:00+02:00'
+doi: 10.5281/zenodo.19880985
+version: '2026-04-27T00:00:00+02:00'
 authors:
   - name: Robert Koch-Institut
     email: info@rki.de
