@@ -71,7 +71,7 @@ Die dem Bericht zugrundeliegenden Daten sind als Open Data verfügbar:
 ## Administrative und organisatorische Angaben 
 Die zugrundeliegenden Daten für die Mortalitätssurveillance gemäß § 5b Bevölkerungsstatistikgesetz (BevStatG) werden vom [Statistischen Bundesamt (Destatis)](https://www.destatis.de) an das [Robert Koch-Institut (RKI)](https://www.rki.de) übermittelt. Die Konzeption und Durchführung der Analysen erfolgen im [Fachgebiet 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD-Kontaktstelle](https://www.rki.de/fg32) des RKI.
 
-Die Aufbereitung und Veröffentlichung des interaktiven Berichts erfolgen durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/mf4) in Zusammenarbeit mit dem Fachgemieb [MF 2 | Fachdaten-Kompentenzzentrum](https://www.rki.de/mf2). Fragen zur Publikationsinfrastruktur können an das Open Data-Team des Fachgebiets MF 4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.
+Die Aufbereitung und Veröffentlichung des interaktiven Berichts erfolgen durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/mf4) in Zusammenarbeit mit dem Fachgebiet [MF 2 | Fachdaten-Kompentenzzentrum](https://www.rki.de/mf2). Fragen zur Publikationsinfrastruktur können an das Open Data-Team des Fachgebiets MF 4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.
 
 
 <!-- FOOTER_START -->
