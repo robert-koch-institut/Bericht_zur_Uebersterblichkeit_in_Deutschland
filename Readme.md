@@ -65,7 +65,9 @@ An dieser Stelle finden Sie den interaktiven Wochenbericht mit den Auswertungen 
 
 Die dem Bericht zugrundeliegenden Daten sind als Open Data verfügbar:
 
+<!-- CITATION_START: {"citation_style": "apa", "markdown_style": "quote", "publication_name": "Daten_des_Uebersterblichkeitsberichts"} -->
 > Robert Koch-Institut. (2026). Daten des Übersterblichkeitsberichts [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17463781](https://doi.org/10.5281/zenodo.17463781)
+<!-- CITATION_END -->  
 
 
 ## Administrative und organisatorische Angaben 
